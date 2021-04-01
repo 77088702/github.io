@@ -11,6 +11,8 @@ git commit -m "mensaje"
 git push 
 git push -u origin master
 
+----para actualizar o traer los ultimos cambios-------
+git pull
 
 ulr del autor:
 https://github.com/le0dime?tab=repositories
