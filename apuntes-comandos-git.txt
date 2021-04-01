@@ -1,0 +1,23 @@
+-----para clonar un repositorio-----
+git clone url_del_repositorio
+
+-----para agregar elementos a mi repositorio-----
+git add --all
+git add.
+
+----para confirmar mis cambios------
+git commit -m "mensaje"
+---para subir mis cambios al repositorio-----
+git push 
+git push -u origin master
+
+
+ulr del autor:
+https://github.com/le0dime?tab=repositories
+
+ejercicios del autor:
+
+curso-angular
+guerra-de-rectangulos
+equipo-ideal
+puntajes
